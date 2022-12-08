@@ -26,7 +26,7 @@
 
 ### Semana 9: [Regressão](https://nbviewer.jupyter.org/format/slides/github/BMClab/BasesComputacionais/blob/master/aula9/Regress%C3%A3o.ipynb#/)
 
-### Semana 10: [Exemplos de modelagem](https://nbviewer.jupyter.org/format/slides/github/BMClab/BasesComputacionais/blob/master/aula10/Modelagem.ipynb#)
+### Semana 10: [Exemplos de modelagem](https://nbviewer.jupyter.org/format/slides/github/BMClab/BasesComputacionais/blob/master/aula10/Modelagem.ipynb#). Não haverá aula dia 9/12
 
 
 > [**Sorteio do projeto final**](https://nbviewer.jupyter.org/format/slides/github/BMClab/BasesComputacionais/blob/master/Sorteio.ipynb)  
@@ -34,5 +34,3 @@
 > [**Grupo e disciplina do projeto final**](https://docs.google.com/spreadsheets/d/e/2PACX-1vTXTSSRoL5A0dQI13TqtkAEYAuaXNbdjXsuXDXKlGlJNemXqwxuW5EHLYnzTb3zcSrWkbbzauvJFHPf/pubhtml)  
 >  
 > [**Notas das turmas**](https://docs.google.com/spreadsheets/d/e/2PACX-1vQHgizDGo07fdnfTRqcuslNb-ENbta9bJSXk85TWMBxP7OMTZVbBDCvoscJF32mosqIkI_lqZBAhwzV/pubhtml)  
-
-# Não haverá aula dia 9/12
